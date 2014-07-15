@@ -49,6 +49,11 @@
     "requireSpacesInFunctionExpression": {
         "beforeOpeningCurlyBrace": true
     },
+    "disallowSpacesInsideObjectBrackets": "nested",
+    "disallowSpacesInsideArrayBrackets": "nested",
+    "disallowSpacesInsideParentheses": true,
+
+
     "validateJSDoc": {
         "checkParamNames": true,
         "requireParamTypes": true
